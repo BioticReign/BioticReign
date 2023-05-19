@@ -1,6 +1,6 @@
 - Hi, I’m BioticReign online
 - I'm interested in landing a job soon
-- I know write code in Python, html, and CSS. Soon I'll get to be using javascript
+- I know how to write code in Python, html, and CSS. Soon I'll get to be using javascript
 - I do mostly web development now (I used to make games with pygame and pymunk)
 - Email --- cats.stilldogs@gmail.com
 
